@@ -5,7 +5,7 @@
       <div
         class="w-full max-w-screen-xl mx-auto flex flex-col items-center justify-between md:flex-row md:justify-between md:items-center mb-8"
       >
-        <img src="https://img.freepik.com/premium-vector/drone-logo_629862-146.jpg" alt="DroneX Logo" class="h-16 mb-4 md:mb-0" />
+        <img src="../assets/logo.jpg" alt="DroneX Logo" class="h-16 mb-4 md:mb-0" />
         <ul class="flex space-x-6">
           <li>
             <a href="https://twitter.com" target="_blank" aria-label="Twitter">
