@@ -43,28 +43,28 @@ export default {
       slides: [
         {
           id: 1,
-          title: "Drone Alpha",
+          title: " Phantom 4 Pro V2.0",
           description:
             "The ultimate drone for professional aerial photography.",
           image:
             "https://blogs.icrc.org/law-and-policy/wp-content/uploads/sites/102/2022/03/Drone-image-1096x620.jpg",
-        },
-        {
-          id: 2,
-          title: "Drone Beta",
-          description: "Efficient, reliable, and powerful for industrial use.",
-          image:
-            "https://cdn.thewirecutter.com/wp-content/media/2023/08/drones-2048px-0718.jpg",
-        },
-        {
-          id: 3,
-          title: "Drone Gamma",
-          description:
-            "Compact design with incredible stability for surveying.",
-          image:
-            "https://mundogeo.com/wp-content/uploads/2024/03/18143629/drone-DJI-Mavic-3-Multispectral-revolucion%C3%A1rio-para-agricultura-e-mapeamento-756x400.jpg",
-        },
-      ],
+        }
+      //   {
+      //     id: 2,
+      //     title: "Drone Beta",
+      //     description: "Efficient, reliable, and powerful for industrial use.",
+      //     image:
+      //       "https://cdn.thewirecutter.com/wp-content/media/2023/08/drones-2048px-0718.jpg",
+      //   },
+      //   {
+      //     id: 3,
+      //     title: "Drone Gamma",
+      //     description:
+      //       "Compact design with incredible stability for surveying.",
+      //     image:
+      //       "https://mundogeo.com/wp-content/uploads/2024/03/18143629/drone-DJI-Mavic-3-Multispectral-revolucion%C3%A1rio-para-agricultura-e-mapeamento-756x400.jpg",
+      //   },
+      ]
     };
   },
   methods: {
